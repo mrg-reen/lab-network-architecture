@@ -1,7 +1,5 @@
 # lab-network-architecture
 This project documents my home lab environment, designed to simulate real-world network segmentation, firewall management, and detection engineering in a controlled setting. It’s built on a UDM Pro with VLANs, Class C subnetting, and isolated security zones for structured learning. The home lab will also benefit learning in software development, automation, cloud technologies, and DevOps Methodologies.
-![image](https://github.com/user-attachments/assets/aed59f0a-0079-4c4e-b72a-f54e81135631)
-(_above image contains zone information for home lab network_)
 
 **Firewall Zone Policy Examples**
 - Blocking Guest (Hotspot) to Internal Zone
